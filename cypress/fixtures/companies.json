@@ -1,0 +1,38 @@
+[
+    {
+        "id": 51,
+        "name": "BOOKINGA",
+        "shareValue": 10,
+        "myShares": 4,
+        "myAmount": 40,
+        "myPercentage": 40,
+        "companyTotalFunds": 100
+    },
+    {
+        "id": 52,
+        "name": "Ishan Manandhar",
+        "shareValue": 1200,
+        "myShares": 10,
+        "myAmount": 12000,
+        "myPercentage": 30,
+        "companyTotalFunds": 40000
+    },
+    {
+        "id": 53,
+        "name": "Bookinga",
+        "shareValue": 1200,
+        "myShares": 10,
+        "myAmount": 12000,
+        "myPercentage": 30,
+        "companyTotalFunds": 40000
+    },
+    {
+        "id": 54,
+        "name": "TURA",
+        "shareValue": 1100,
+        "myShares": 10,
+        "myAmount": 11000,
+        "myPercentage": 27,
+        "companyTotalFunds": 40000
+    }
+]
